@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Ekanta Banik Durjoy </h1>
+<h1 align="center">Ekanta Banik Durjoy</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+intelligent+AI+solutions;Automation+Systems+%26+Agentic+Workflows;Production-ready+Applications+with+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+intelligent+AI+solutions;Automation+Systems+and+Agentic+Workflows;Production-ready+Applications+with+ML" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,13 +13,12 @@
 
 ---
 
-### About Me
+### About
 
-I'm a **CSE student** and **freelance developer** building AI-powered automation workflows, web applications, and mobile apps for clients — primarily through Fiverr. I specialize in turning ideas into **production-ready AI systems**, from multi-agent architectures to full-stack automation pipelines.
+Freelance developer building AI-powered automation workflows, web applications, and mobile apps for clients, primarily through Fiverr. Focused on turning requirements into production-ready AI systems, from multi-agent architectures to full-stack automation pipelines.
 
--  CSE Student, Bangladesh
--  Freelance AI/Automation Developer
--  Work within a small team handling client communication & delivery
+- Freelance AI / Automation Developer
+- Works within a small team handling client communication and delivery
 
 ---
 
@@ -27,27 +26,27 @@ I'm a **CSE student** and **freelance developer** building AI-powered automation
 
 **UI/UX Requirement Validation Platform**
 A FastAPI + Groq + Figma API tool that analyzes and validates client design requirements.
-🔗 [client-requirement-analyzer-agent.vercel.app](https://client-requirement-analyzer-agent.vercel.app/)
+[client-requirement-analyzer-agent.vercel.app](https://client-requirement-analyzer-agent.vercel.app/)
 
-### 🌱 Currently Learning
+### Currently Learning
 
-Advanced RAG systems · LangChain agents · React / Vue frontend · GSAP
+Advanced RAG systems, LangChain agents, React / Vue frontend, GSAP
 
-###  Looking to Collaborate On
+### Looking to Collaborate On
 
-AI agent workflows & automation systems — **n8n**, **CrewAI**, **LangChain**
+AI agent workflows and automation systems — n8n, CrewAI, LangChain
 
-###  Looking for Help With
+### Looking for Help With
 
-Integrating **Gemini Vision** for true visual UI/UX analysis in the Requirement Validation Platform
+Integrating Gemini Vision for true visual UI/UX analysis in the Requirement Validation Platform
 
-###  Ask Me About
+### Ask Me About
 
-AI automation (n8n) · RAG / LLM applications · FastAPI backends · CrewAI multi-agent systems · React, Vue & GSAP
+AI automation (n8n), RAG / LLM applications, FastAPI backends, CrewAI multi-agent systems, React, Vue and GSAP
 
 ---
 
-###  Languages & Tools
+### Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,react,vue,fastapi,docker,aws,git,github,figma,postman,selenium,mongodb,cpp,vscode,cursor" />
@@ -61,7 +60,7 @@ AI automation (n8n) · RAG / LLM applications · FastAPI backends · CrewAI mult
 
 ---
 
-###  Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -72,14 +71,15 @@ AI automation (n8n) · RAG / LLM applications · FastAPI backends · CrewAI mult
 | **BOOKABL** | WhatsApp appointment booking system | WhatsApp Cloud API, n8n, Botpress, Supabase |
 | **Bangladesh AI Agent** | Conversational agent with ReAct reasoning | FastAPI, LangChain, Groq, SQLite |
 
- All projects: [durjoylabs.vercel.app](https://durjoylabs.vercel.app/)
+All projects: [durjoylabs.vercel.app](https://durjoylabs.vercel.app/)
 
 ---
 
-###  Know About My Experience
+### Experience
 
-🔗 [Resume / CV](https://drive.google.com/file/d/1xucr0R8SmEkhzZ7EXYuxvgorSyUQiCp5/view?usp=sharing)
+[Resume / CV](https://drive.google.com/file/d/1xucr0R8SmEkhzZ7EXYuxvgorSyUQiCp5/view?usp=sharing)
 
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ekaanta&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
@@ -89,4 +89,3 @@ AI automation (n8n) · RAG / LLM applications · FastAPI backends · CrewAI mult
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ekaanta&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
-
