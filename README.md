@@ -1,4 +1,5 @@
-<h1 align="center">Ekanta Banik Durjoy</h1>
+<h1 align="center"><img width="1969" height="799" alt="ChatGPT Image Aug 24, 2026, 12_34_13 PM" src="https://github.com/user-attachments/assets/0b4b4a30-14eb-403a-ad30-aa8ea76dbc5d" />
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+intelligent+AI+solutions;Automation+Systems+and+Agentic+Workflows;Production-ready+Applications+with+ML" alt="Typing SVG" />
