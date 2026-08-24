@@ -1,24 +1,92 @@
-# Hi, I'm Ekanta Banik Durjoy
+<h1 align="center">Hi, I'm Ekanta Banik Durjoy </h1>
 
--  I'm currently working on **Requirement Validation Platform **
-
--  I'm currently learning **Advanced RAG systems, LangChain agents, React/Vue frontend**
-
--  I'm looking to collaborate on **AI agent workflows & automation systems (n8n, CrewAI, LangChain)**
-
--  How to reach me: **ekantabanik@gmail.com**
-
--  All of my projects are available at **(https://durjoylabs.vercel.app/)**
-
--  Know about my experiences **(https://drive.google.com/file/d/1xucr0R8SmEkhzZ7EXYuxvgorSyUQiCp5/view?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/github.com/Ekaanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github.com/Ekaanta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/durjoy-banik " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/durjoy-banik " height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/ekantabanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ekantabanik" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+intelligent+AI+solutions;Automation+Systems+%26+Agentic+Workflows;Production-ready+Applications+with+ML" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cypress" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gradio" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gradio/FF7C00" alt="gradio" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a></p>
+<p align="center">
+  <a href="https://github.com/Ekaanta"><img src="https://img.shields.io/badge/GitHub-Ekaanta-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://huggingface.co/ekantabanik"><img src="https://img.shields.io/badge/Hugging%20Face-ekantabanik-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+  <a href="mailto:ekantabanik@gmail.com"><img src="https://img.shields.io/badge/Email-ekantabanik%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://durjoylabs.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-durjoylabs.vercel.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+### About Me
+
+I'm a **CSE student** and **freelance developer** building AI-powered automation workflows, web applications, and mobile apps for clients — primarily through Fiverr. I specialize in turning ideas into **production-ready AI systems**, from multi-agent architectures to full-stack automation pipelines.
+
+-  CSE Student, Bangladesh
+-  Freelance AI/Automation Developer
+-  Work within a small team handling client communication & delivery
+
+---
+
+### Currently Working On
+
+**UI/UX Requirement Validation Platform**
+A FastAPI + Groq + Figma API tool that analyzes and validates client design requirements.
+🔗 [client-requirement-analyzer-agent.vercel.app](https://client-requirement-analyzer-agent.vercel.app/)
+
+### 🌱 Currently Learning
+
+Advanced RAG systems · LangChain agents · React / Vue frontend · GSAP
+
+###  Looking to Collaborate On
+
+AI agent workflows & automation systems — **n8n**, **CrewAI**, **LangChain**
+
+###  Looking for Help With
+
+Integrating **Gemini Vision** for true visual UI/UX analysis in the Requirement Validation Platform
+
+###  Ask Me About
+
+AI automation (n8n) · RAG / LLM applications · FastAPI backends · CrewAI multi-agent systems · React, Vue & GSAP
+
+---
+
+###  Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,react,vue,fastapi,docker,aws,git,github,figma,postman,selenium,mongodb,cpp,vscode,cursor" />
+</p>
+
+**AI / Automation:** LangChain · CrewAI · Groq · n8n · FAISS · Chroma · RAG pipelines
+**Backend:** FastAPI · Supabase · SQLAlchemy · Docker
+**Frontend:** React · Vue · GSAP · JavaScript
+**Testing:** Selenium · Postman
+**Deployment:** Render · Vercel · GitHub Actions
+
+---
+
+###  Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **UI/UX Requirement Validation Platform** | Client requirement analysis using AI + Figma API | FastAPI, Groq, Figma API |
+| **Medical AI Analysis Platform** | OCR-powered medical report analyzer | FastAPI, Streamlit, Docker, OCR |
+| **Leo — Multi-Agent AI Tutor** | 4-agent tutoring system on Hugging Face Spaces | CrewAI, Groq, Gradio |
+| **Amar Passport** | Virtual consular officer for BD e-passport applicants | CrewAI, bilingual NLP |
+| **BOOKABL** | WhatsApp appointment booking system | WhatsApp Cloud API, n8n, Botpress, Supabase |
+| **Bangladesh AI Agent** | Conversational agent with ReAct reasoning | FastAPI, LangChain, Groq, SQLite |
+
+ All projects: [durjoylabs.vercel.app](https://durjoylabs.vercel.app/)
+
+---
+
+###  Know About My Experience
+
+🔗 [Resume / CV](https://drive.google.com/file/d/1xucr0R8SmEkhzZ7EXYuxvgorSyUQiCp5/view?usp=sharing)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ekaanta&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ekaanta&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ekaanta&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
 
