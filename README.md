@@ -80,12 +80,3 @@ All projects: [durjoylabs.vercel.app](https://durjoylabs.vercel.app/)
 [Resume / CV](https://drive.google.com/file/d/1xucr0R8SmEkhzZ7EXYuxvgorSyUQiCp5/view?usp=sharing)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ekaanta&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ekaanta&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ekaanta&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
