@@ -49,7 +49,7 @@ AI automation (n8n), RAG / LLM applications, FastAPI backends, CrewAI multi-agen
 ### Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,react,vue,fastapi,docker,aws,git,github,figma,postman,selenium,mongodb,cpp,vscode,cursor" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,vue,fastapi,docker,aws,git,github,figma,postman,selenium,mongodb,vscode,cursor" />
 </p>
 
 **AI / Automation:** LangChain · CrewAI · Groq · n8n · FAISS · Chroma · RAG pipelines
