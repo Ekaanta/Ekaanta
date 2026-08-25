@@ -14,6 +14,21 @@
 
 ---
 
+### Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **UI/UX Requirement Validation Platform** | Client requirement analysis using AI + Figma API | FastAPI, Groq, Figma API |
+| **Medical AI Analysis Platform** | OCR-powered medical report analyzer | FastAPI, Streamlit, Docker, OCR |
+| **Leo — Multi-Agent AI Tutor** | 4-agent tutoring system on Hugging Face Spaces | CrewAI, Groq, Gradio |
+| **Amar Passport** | Virtual consular officer for BD e-passport applicants | CrewAI, bilingual NLP |
+| **BOOKABL** | WhatsApp appointment booking system | WhatsApp Cloud API, n8n, Botpress, Supabase |
+| **Bangladesh AI Agent** | Conversational agent with ReAct reasoning | FastAPI, LangChain, Groq, SQLite |
+
+All projects: [durjoylabs.vercel.app](https://durjoylabs.vercel.app/)
+
+---
+
 ### About
 
 Freelance developer building AI-powered automation workflows, web applications, and mobile apps for clients, primarily through Fiverr. Focused on turning requirements into production-ready AI systems, from multi-agent architectures to full-stack automation pipelines.
@@ -61,23 +76,10 @@ AI automation (n8n), RAG / LLM applications, FastAPI backends, CrewAI multi-agen
 
 ---
 
-### Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **UI/UX Requirement Validation Platform** | Client requirement analysis using AI + Figma API | FastAPI, Groq, Figma API |
-| **Medical AI Analysis Platform** | OCR-powered medical report analyzer | FastAPI, Streamlit, Docker, OCR |
-| **Leo — Multi-Agent AI Tutor** | 4-agent tutoring system on Hugging Face Spaces | CrewAI, Groq, Gradio |
-| **Amar Passport** | Virtual consular officer for BD e-passport applicants | CrewAI, bilingual NLP |
-| **BOOKABL** | WhatsApp appointment booking system | WhatsApp Cloud API, n8n, Botpress, Supabase |
-| **Bangladesh AI Agent** | Conversational agent with ReAct reasoning | FastAPI, LangChain, Groq, SQLite |
-
-All projects: [durjoylabs.vercel.app](https://durjoylabs.vercel.app/)
-
----
-
 ### Experience
 
 [Resume / CV](https://drive.google.com/file/d/1xucr0R8SmEkhzZ7EXYuxvgorSyUQiCp5/view?usp=sharing)
+
+---
 
 ---
